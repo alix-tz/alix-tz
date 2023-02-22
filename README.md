@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm currently working on a PhD thesis dedicated to automatic text recognition for manuscripts.
+- 🌱 I’m currently learning more about GANs
+- 🤓 Ask me about regular expressions
+- 📫 How to reach me: https://alix-tz.github.io/contact/
+- 😄 Pronouns: she/her
