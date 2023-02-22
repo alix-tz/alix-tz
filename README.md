@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 🤓 Ask me about regular expressions
 - 📫 How to reach me: https://alix-tz.github.io/contact/
 - 😄 Pronouns: she/her
+- ⚡ Fun fact: I used to create Twitter bots for fun
